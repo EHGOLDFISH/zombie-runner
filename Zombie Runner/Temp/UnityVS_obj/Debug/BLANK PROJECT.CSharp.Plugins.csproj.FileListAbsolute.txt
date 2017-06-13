@@ -1,0 +1,20 @@
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\Google.ProtocolBuffers.dll
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.dll
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\UnityEngine.VR.dll
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.xml
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\UnityEngine.VR.xml
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_obj\Debug\BLANK PROJECT.CSharp.Plugins.csprojResolveAssemblyReference.cache
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.dll
+D:\$summer term\unity\vrTest\BLANK PROJECT\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.pdb
